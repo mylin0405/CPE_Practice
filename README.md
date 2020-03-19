@@ -1,5 +1,9 @@
 # CPE-Practice
 Practice CPE/GPE for a better programming style and getting much more familiar with C++ STL.    
-從2星開始從頭準備！！ o(-`д´- ｡)  
+Start 2-star problems!! (-`д´- ｡) !
 
 ## Day 1 
+* Power Strings [code]()
+* All in All [code]()
+
+
